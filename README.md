@@ -1,0 +1,2 @@
+# furachi-collector
+Qoshimcha
